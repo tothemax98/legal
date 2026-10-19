@@ -1,155 +1,88 @@
-🌿 TERMS OF SERVICE — PlantAware
+# PlantAware Terms of Service
 
-Last updated: January 2026
+**Last updated: October 2026**
 
-Please read these Terms of Service (“Terms”) carefully before using the PlantAware mobile application (“the App”).
+These Terms of Service ("Terms") apply to your use of the PlantAware mobile application ("PlantAware" or "the App").
 
-By using the App, you agree to be bound by these Terms.
-If you do not agree, do not use the App.
+By using PlantAware, you agree to these Terms.
 
-1. Use of the App
+For iOS users, your use of the App is also governed by Apple's Standard Licensed Application End User License Agreement (EULA), available at:
 
-PlantAware provides plant identification, disease analysis, plant care recommendations, and related features.
+https://www.apple.com/legal/internet-services/itunes/dev/stdeula/
 
-You agree to use the App only for lawful purposes and in accordance with these Terms.
+## 1. App purpose
 
-You must not:
+PlantAware provides plant identification, visible plant-health analysis, plant-care guidance, reminders, saved-plant tools, and related informational features.
 
-misuse the App
+PlantAware uses automated and AI-based systems. Results may be incomplete or incorrect and should be independently verified when important.
 
-attempt to reverse-engineer or copy features
+## 2. Not professional or emergency advice
 
-upload harmful or inappropriate content
+PlantAware is provided for informational and educational purposes.
 
-interfere with the app’s functionality or security
+Do not rely solely on PlantAware for medical, veterinary, poisoning, agricultural, legal, or other safety-critical decisions. If a person or animal may have been exposed to a toxic plant or substance, seek appropriate professional or emergency assistance.
 
-2. Subscriptions & Payments
+## 3. User-provided content
 
-PlantAware offers optional premium features through auto-renewing subscriptions.
+You may choose to submit plant photos and related information.
 
-2.1 Subscription Billing
+You retain ownership of your content. You grant PlantAware and its service providers permission to process that content only as reasonably necessary to provide, secure, maintain, and improve the requested App functionality.
 
-Payments are processed by:
+You must not knowingly upload content you do not have the right to use or content that violates applicable law.
 
-Apple App Store
+## 4. Subscriptions
 
-Google Play Store
+PlantAware may offer auto-renewing subscriptions that unlock premium features.
 
-We do not store or process payment information.
+The App displays the applicable price, billing period, and any available introductory offer before purchase. Purchases are processed by the applicable app store.
 
-2.2 Auto-Renewal
+Subscriptions automatically renew unless canceled in accordance with the app store's terms. You can manage or cancel your subscription from your app-store account. Deleting PlantAware does not cancel an active subscription.
 
-Subscriptions renew automatically unless canceled at least 24 hours before the end of the current period.
+## 5. Free trials and introductory offers
 
-2.3 Managing Subscriptions
+An introductory free trial may be available only to users the app store determines are eligible.
 
-You can manage or cancel your subscription at any time through:
+If you begin a free trial and do not cancel before it ends, the subscription may automatically convert to a paid subscription at the price shown before purchase, subject to the app store's terms.
 
-App Store account settings
+## 6. Acceptable use
 
-Google Play account settings
+You may not:
 
-Deleting the App does not cancel your subscription.
+- misuse the App or attempt to interfere with its operation or security;
+- use the App for unlawful purposes;
+- attempt to circumvent subscription or usage controls;
+- reverse-engineer the App except where applicable law expressly permits it.
 
-3. Free Trial
+## 7. Third-party services
 
-Some subscription plans may offer a free trial.
+PlantAware depends on third-party services for functions such as app distribution, AI processing, backend infrastructure, and subscription management. Availability of those services may affect PlantAware.
 
-If you do not cancel before the trial period ends, the subscription will begin automatically.
+Third-party services are subject to their own terms and policies.
 
-We are not able to refund charges resulting from failure to cancel in time.
+## 8. Privacy
 
-4. User-Provided Content
+Your use of PlantAware is also subject to the PlantAware Privacy Policy:
 
-You may submit photos of plants or other materials.
+https://tothemax98.github.io/legal/privacy-policy
 
-By submitting content, you grant us and our service providers (e.g., AI processing partners) permission to process the content solely for the purpose of providing App features.
+## 9. Availability and changes
 
-We do not claim ownership of your content.
+We may update, modify, suspend, or discontinue features as the App evolves. We do not guarantee that PlantAware will always be available without interruption or error.
 
-You must not upload:
+## 10. Disclaimer and limitation of liability
 
-copyrighted material without permission
+To the extent permitted by applicable law, PlantAware is provided "as is" and "as available" without warranties of accuracy, fitness for a particular purpose, or uninterrupted availability.
 
-harmful, illegal, or offensive content
+To the extent permitted by law, we are not liable for indirect, incidental, special, consequential, or similar damages arising from use of or inability to use PlantAware, including losses caused by inaccurate identification or care guidance.
 
-photos of people or private locations
+Nothing in these Terms excludes rights or liability that cannot legally be excluded.
 
-5. AI Processing Disclaimer
+## 11. Changes to these Terms
 
-PlantAware uses machine learning and third-party AI services (such as Rork AI Toolkit) to analyze plant images.
+We may update these Terms from time to time. The current version will be posted at this location with an updated date.
 
-AI analysis may not always be accurate.
-You agree that results are provided “as-is” without guarantees.
+## 12. Contact
 
-You should not rely solely on AI-generated results for medical, agricultural, or safety-critical decisions.
+Questions about these Terms can be sent to:
 
-6. Limitation of Liability
-
-To the fullest extent permitted by law:
-
-The App is provided “as is”
-
-We do not guarantee accuracy, availability, or uninterrupted use
-
-We are not liable for any damages arising from the use or inability to use the App
-
-This includes (but is not limited to):
-
-loss of data
-
-incorrect plant diagnosis
-
-plant damage or injury
-
-subscription costs
-
-third-party service failures
-
-7. Privacy Policy
-
-Your use of the App is also governed by our Privacy Policy.
-
-You can view it at:
-<your GitHub privacy policy URL here>
-
-(Replace this link after enabling GitHub Pages.)
-
-8. Third-Party Services
-
-The App relies on third-party tools such as:
-
-Rork AI Toolkit
-
-RevenueCat
-
-Apple App Store / Google Play
-
-Expo & EAS (if applicable)
-
-Each has its own terms and policies.
-
-9. Termination
-
-We may suspend or terminate your access to the App if:
-
-you violate these Terms
-
-your actions harm the App or other users
-
-required by law
-
-You may stop using the App at any time.
-
-10. Changes to These Terms
-
-We may update these Terms occasionally.
-
-When we do, the updated version will be posted here with a new “Last Updated” date.
-
-Continued use of the App means you accept the updated Terms.
-
-11. Contact Us
-
-For any questions or concerns, contact us at:
-maximumware@gmail.com
+**maximumware@gmail.com**

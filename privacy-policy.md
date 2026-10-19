@@ -1,177 +1,100 @@
-🌿 PLANTAWARE — Privacy Policy
+# PlantAware Privacy Policy
 
-Last updated: January 2026
+**Last updated: October 2026**
 
-Thank you for using PlantAware (“the App”).
-This Privacy Policy explains how we collect, use, and protect your information when you use PlantAware.
+PlantAware ("PlantAware," "we," "us," or "the App") helps users identify plants, evaluate visible plant-health issues, receive care guidance, save plants, and track recovery.
 
-By using the App, you agree to the terms described in this Privacy Policy.
+This policy explains the information PlantAware processes and how it is used.
 
-1. Information We Collect
-1.1 Photos You Provide
+## 1. Photos and plant information
 
-The App allows you to take or upload images of plants.
-These photos are used solely for plant identification, disease detection, and analysis.
+PlantAware processes photos that you choose to take or select for plant identification, disease analysis, and related care features.
 
-We do not:
+PlantAware does not access your camera or photo library without your action and permission. Photos submitted for analysis may be transmitted to service providers that perform the requested AI processing or support the app's backend.
 
-Collect photos without your permission
+PlantAware does not sell your plant photos or use them for advertising or cross-app tracking.
 
-Access your photo library without your action
+Saved plants, plant images, health summaries, reminders, and recovery information may be stored locally on your device so the App can provide those features.
 
-Sell, rent, or share your photos with third parties
+## 2. Device permissions
 
-We may temporarily transmit photos to:
+PlantAware may request:
 
-Rork AI Toolkit (rork.com) for plant analysis
-All processing is performed securely and only for the purpose of generating results.
+- **Camera access** to take plant photos.
+- **Photo library access** to select plant photos.
+- **Photo library add access** when you choose to save a shareable plant card.
+- **Notification permission** when you choose to enable care, follow-up, or trial reminders.
+- **Internet access** to send requests needed for AI analysis, subscription status, and app services.
 
-We do not store your photos on our servers.
+PlantAware does not use the microphone for audio recording.
 
-1.2 Device Permissions
+You can change permissions at any time in your device settings.
 
-The App may request access to:
+## 3. Anonymous product analytics
 
-Camera — to capture plant images
+PlantAware collects limited product-usage analytics to understand whether important app flows work and to improve the product.
 
-Photo library — to upload existing photos
+Analytics may include events such as:
 
-Microphone — only if required by the OS for camera operation (not used for audio recording)
+- app opens;
+- scan starts and completions;
+- diagnosis and treatment views;
+- plant saves;
+- paywall and trial-offer views;
+- plan selections and purchase starts;
+- subscription or trial completion events;
+- Rescue Plan and follow-up actions.
 
-Internet — to send photos to the AI engine and receive results
+These events may include timestamps, coarse event metadata, and a randomly generated installation identifier.
 
-Permissions are used exclusively for app functionality and can be revoked at any time in system settings.
+PlantAware's product analytics are designed not to include plant photos, diagnosis or treatment text, plant notes, your name, email address, or precise location. Product analytics are not used for third-party advertising or cross-app tracking.
 
-1.3 Subscription & Purchase Information
+## 4. Subscriptions and purchases
 
-If you subscribe to PlantAware Premium:
+Purchases are processed by the applicable app store. PlantAware uses RevenueCat to manage subscription status and paid-feature access.
 
-Apple App Store
+PlantAware does not collect or store your credit card number.
 
-Google Play Store
+Subscription-related services may process information such as an anonymous app user identifier, product purchased, purchase or entitlement status, region/currency, and transaction information required to provide subscription functionality.
 
-process your payment information.
-We do not collect or store credit card numbers.
+## 5. Service providers
 
-We use RevenueCat to manage subscriptions. RevenueCat receives:
+PlantAware relies on service providers for functions such as AI image analysis, app/backend infrastructure, subscription management, and app distribution.
 
-Anonymous app user ID
+These providers receive only the information reasonably necessary to provide the requested service. Their processing is also governed by their own terms and privacy policies.
 
-Product purchased
+## 6. Data retention
 
-Purchase status (active, expired, canceled)
+Local app data remains on your device until you remove it through the App, delete the App, or otherwise clear the relevant device data.
 
-Region/currency
+Information processed by third-party services may be retained for the periods necessary to provide their services, maintain security, comply with law, and operate their systems under their respective policies.
 
-RevenueCat does not receive photos or personal identity data.
+## 7. Data selling, advertising, and tracking
 
-1.4 Usage Data (Anonymous)
+PlantAware does not sell personal information.
 
-We may collect anonymous usage information such as:
+PlantAware does not use product analytics for third-party advertising or cross-app tracking.
 
-App interactions
+## 8. Children
 
-Features used
+PlantAware is not directed to children under 13, and we do not knowingly collect personal information from children under 13.
 
-Crash logs
+## 9. Security
 
-Device type
+We use reasonable technical and organizational measures intended to protect information processed by PlantAware. No method of electronic transmission or storage can be guaranteed to be completely secure.
 
-OS version
+## 10. Your choices and rights
 
-This helps improve performance and features.
+Depending on where you live, you may have rights concerning your personal information. You can also:
 
-No personal data or identity tracking occurs.
+- revoke camera, photo-library, or notification permissions in device settings;
+- delete saved data available through PlantAware's controls;
+- manage or cancel subscriptions through your app-store account.
 
-2. How We Use Your Information
+For privacy questions or requests, contact:
 
-We use collected information to:
+**maximumware@gmail.com**
 
-Identify plants
+## 11. Changes to this policy
 
-Diagnose plant diseases
-
-Provide plant care instructions
-
-Improve app features
-
-Manage subscriptions
-
-Fix bugs and improve stability
-
-Personalize the user experience
-
-We do not sell your data.
-
-3. Data Sharing
-
-We may share limited information with trusted service providers:
-
-3.1 Rork AI Toolkit (Plant Analysis)
-
-Your plant photos are securely transmitted to the AI engine only for analysis.
-
-3.2 RevenueCat (Subscription Handling)
-
-RevenueCat receives only anonymous subscriber data needed to manage your purchase.
-
-3.3 Apple / Google
-
-Required for processing payments and verifying subscriptions.
-
-We do not share data with:
-
-Advertisers
-
-Marketing companies
-
-Data brokers
-
-Social media platforms
-
-4. Data Storage & Retention
-
-We do not store plant photos on our servers.
-
-Temporary processing may occur only for analysis and is deleted immediately after results are generated.
-
-Subscription and purchase status is retained as long as needed to maintain your access to premium features.
-
-5. Children’s Privacy
-
-PlantAware is not intended for children under 13.
-
-We do not knowingly collect personal information from children.
-If we discover such data was collected, it will be deleted immediately.
-
-6. Security
-
-We use administrative, technical, and physical safeguards to protect your data:
-
-Encrypted network communication
-
-Secure processing environments
-
-Limited data retention
-
-No unnecessary data storage
-
-However, no method of transmission over the internet is 100% secure.
-
-7. Your Rights
-
-Depending on your region, you may have the right to:
-
-Access your data
-
-Delete your data
-
-Correct inaccurate information
-
-Withdraw permission for camera/photos
-
-Cancel your subscription at any time
-
-To exercise rights, email us at:
-
-maximumware@gmail.com
+We may update this Privacy Policy as PlantAware changes. The current version will be posted at this location with an updated date.
