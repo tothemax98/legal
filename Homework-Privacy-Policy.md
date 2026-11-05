@@ -1,61 +1,39 @@
-Privacy Policy
-Last Updated: February 27, 2026
+# Homework Smarter Privacy Policy
+Last updated: November 5, 2026
 
-This Privacy Policy describes how Maxly: Homework Smarter ("we", "our", or "us") collects, uses, and protects your information when you use our mobile application ("App"). By using the App, you agree to the practices described in this policy.
+Homework Smarter is provided by Max Thomas. Contact: maximumware@gmail.com.
 
-1. Information We Collect
+## Homework photos and learning content
+When you request a scan, the app sends your selected homework image to our backend to identify questions and generate explanations. Practice and follow-up help send the relevant question, answer, and solution steps. Do not upload names, student IDs, contact details, or other private information that is not needed for homework help.
 
-Images You Provide
-When you scan homework or upload images, those images are sent to third-party AI services (OpenAI) for processing. We do not permanently store your images on our servers. Images are processed in real time and are not retained after the response is generated.
+Our backend runs on Cloudflare and uses Rork's AI gateway. Depending on the request and fallback routing, AI processing may be performed by Google, OpenAI, or Anthropic. These services receive the content needed to answer your request. Their processing and retention are governed by the applicable service terms and privacy policies; we do not promise that all third parties immediately delete submitted content.
 
-Usage Data
-We may collect anonymous usage data such as the number of scans performed, features used, and general interaction patterns. This data helps us improve the App and does not personally identify you.
+## Installation identifiers and usage
+The app uses a RevenueCat app user ID or a locally generated installation ID to check Premium access and manage usage limits. The backend stores daily request counts, short-term request activity, and cached subscription status. It also records activity against a hashed IP address for abuse detection. These records support app functionality, security, and quota enforcement. No name, email address, or app account is required to use the app.
 
-Subscription Information
-If you purchase a premium subscription, payment processing is handled entirely by Apple (App Store) or Google (Google Play) and RevenueCat. We do not collect, store, or have access to your payment details such as credit card numbers.
+## Subscriptions
+Apple processes iOS purchases. RevenueCat receives purchase history and subscription information to validate purchases, restore access, and provide subscription analytics. We do not receive your full payment card details. Subscription records may be retained by Apple and RevenueCat under their policies and applicable recordkeeping requirements.
 
-2. How We Use Your Information
+## Local storage and retention
+Scan history and preferences are stored on your device. You can delete individual scans in the app. The backend processes homework requests without a homework-history database; installation-level usage and entitlement records are stored separately. Short-term request activity is pruned as part of usage accounting. Other usage and subscription records may remain until deleted or no longer needed to operate the service. Third-party processing records follow the relevant provider's retention policy.
 
-We use the information we collect to:
+## Data use and sharing
+We use data to provide homework explanations and practice, manage subscriptions and limits, troubleshoot failures, and prevent abuse. The app does not include advertising or use data for cross-app advertising tracking. Service providers process data to deliver these functions. We may also disclose information where required by law.
 
-- Process your homework scans and provide step-by-step solutions
-- Generate practice problems tailored to your learning
-- Manage your subscription status
-- Improve and optimize the App experience
-- Diagnose technical issues and maintain App performance
+## Your choices
+You can choose not to submit homework images or request AI help. Camera access is optional when you import an existing image. Manage camera and photo permissions in iOS Settings. Delete saved scans in the app and manage or cancel subscriptions in your Apple account's subscription settings. For access, correction, deletion, or privacy questions, email maximumware@gmail.com. We may need information sufficient to locate the relevant installation or purchase record; do not email passwords or full payment details. Deleting local scans or uninstalling the app does not automatically delete records held by service providers.
 
-3. Third-Party Services
+## Children and families
+Parents should supervise children's use and ensure that uploaded homework does not contain unnecessary personal information. If you believe a child has submitted personal information without appropriate permission, contact maximumware@gmail.com so we can investigate and address the request.
 
-Our App uses the following third-party services:
+## Service-provider information
+- Apple: https://www.apple.com/legal/privacy/
+- RevenueCat: https://www.revenuecat.com/privacy/
+- Cloudflare: https://www.cloudflare.com/privacypolicy/
+- Rork: https://rork.com/privacy
+- Google: https://policies.google.com/privacy
+- OpenAI: https://openai.com/policies/privacy-policy/
+- Anthropic: https://www.anthropic.com/legal/privacy
 
-OpenAI — to analyze images and generate solutions. Images you submit are sent to OpenAI's API for processing. Please review OpenAI's privacy policy for more details on how they handle data.
-
-RevenueCat — to manage in-app subscriptions and purchases. RevenueCat may collect anonymized purchase and device data.
-
-Expo — our development framework, which may collect anonymous crash reports and diagnostic data.
-
-4. Data Storage & Security
-
-Scan history and app preferences are stored locally on your device. We do not maintain a centralized database of your personal homework data. We implement reasonable security measures to protect your information, but no method of electronic storage is 100% secure.
-
-5. Children's Privacy
-
-Our App is designed to assist students with homework. We do not knowingly collect personal information from children under the age of 13 without parental consent. If you are a parent or guardian and believe your child has provided personal information, please contact us so we can take appropriate action.
-
-6. Your Rights
-
-You have the right to:
-
-- Delete your locally stored data by clearing the App's data or uninstalling the App
-- Request information about what data we process
-- Opt out of any future data collection by discontinuing use of the App
-
-7. Changes to This Policy
-
-We may update this Privacy Policy from time to time. Any changes will be reflected within the App with an updated "Last Updated" date. We encourage you to review this policy periodically.
-
-8. Contact Us
-
-If you have questions or concerns about this Privacy Policy, please contact us at:
-
-maximumware@gmail.com
+## Changes
+We may update this policy as the app or its processing changes. The date above identifies the latest revision.
